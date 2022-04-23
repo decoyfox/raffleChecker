@@ -2,7 +2,7 @@
     "name": "Raffle Checker Plugin",
     "description": "Helps to check your raffle results.",
     "version": "1",
-    "manifest_version": 1,
+    "manifest_version": 2,
     "content_scripts": [
         {
             "matches": ["https://www.premint.xyz/collectors/entries/"],
