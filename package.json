@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "webpack": "^5.67.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
+}
